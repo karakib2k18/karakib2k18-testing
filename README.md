@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karakib2k18&label=Profile%20views&color=0e75b6&style=flat" alt="karakib2k18" /> </p>
 
-- 🔭 I’m currently working on [sdfsadf](asdfas)
-
-- 🌱 I’m currently learning **adasfasdfasf**
-
-- 👯 I’m looking to collaborate on [asdfasdf](asdfasd)
-
-- 🤝 I’m looking for help with [sdfasdf](asdfasd)
-
 - 👨‍💻 All of my projects are available at [https://kaziabdurrakib.com/](https://kaziabdurrakib.com/)
 
 - 📝 I regularly write articles on [https://blog.kaziabdurrakib.com/](https://blog.kaziabdurrakib.com/)
