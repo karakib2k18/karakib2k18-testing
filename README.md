@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kazi Abdur Rakib</h1>
 <h3 align="center">Front-End Engineer || MERN Stack Web Developer</h3>
+<img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"/> 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karakib2k18&label=Profile%20views&color=0e75b6&style=flat" alt="karakib2k18" /> </p>
